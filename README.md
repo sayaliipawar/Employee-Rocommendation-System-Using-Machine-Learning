@@ -20,6 +20,6 @@ In most of the organizationss, the employees are selected based on resumes which
 1)Dataset:</br>
 ![datset image](ScreenShots/Dataset.PNG)</br>
 2)Website to upload image</br>
-![](ScreenShots/resumeuploadwebsite.png)</br>
+![](ScreenShots/Resumeuploadwebsite.PNG)</br>
 
 
