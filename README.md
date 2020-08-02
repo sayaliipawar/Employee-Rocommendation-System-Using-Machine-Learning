@@ -1,8 +1,21 @@
 # Employee-Rocommendation-System
 Employee Recommendation System using Machine learning and NLP to screen the resumes and predict suitable candidates.
 
-**Description**:
-In most of the organizationss, the employees are selected based on resumes which are manually analyzed and compared with other resumes which increases the use of manpower and utilizes a lot of time. To overcome this problem,Employee Recommendation System can be used. It will collect all the resumes, analyze the resumes based on certain parameter, and then give the best possible set of Employees which are eligible for the organization. 
+**Description:**</br>
+In most of the organizationss, the employees are selected based on resumes which are manually analyzed and compared with other resumes which increases the use of manpower and utilizes a lot of time. To overcome this problem,Employee Recommendation System can be used. It will collect all the resumes, analyze the resumes based on certain parameter, and then give the best possible set of Employees which are eligible for the organization. </br></br>
 
-**Output:**
+**Steps:**</br>
+1)Create 'upload' and 'Selected_Candidates' folders.
+2)start the resumeupload.js file using command "node resumeupload.js"</br>
+3)Open Browser and run localhost:3000</br>
+4)Upload the resumes there as PDF files whilch will be saved to the upload folder.</br>
+5)Run the algorithm.ipynb file.</br>
+6)The selected candidates resume will appear in Selected_Candidates folder.</br></br>
+
+**Installation**</br>
+1)Install nodeJS to be able to run resumeupload.js
+2)Install any one WAMP,XAMPL or LAMP server 
+
+**Output:**</br>
+
 
